@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "simula",
-    "slug": "simula",
-    "version": "1.0.0",
+    "name": "Simula",
+    "slug": "Simula",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Simula.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/simula-splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,7 +23,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.ipsoft.simula",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
